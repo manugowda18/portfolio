@@ -3,7 +3,7 @@ export const Work = [
     id: 4,
     name: "UETH Bengaluru Chapter",
     description:
-      " Commuinty Head & Web3 Developer",
+      " Chapter Leader",
     tags: ["Blockchain", "Commuinty", "bengaluru", "Ethereum"],
     date: "Nov'23 - Present"
 
