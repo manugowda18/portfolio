@@ -1,6 +1,15 @@
 export const Work = [
   {
-    id: 1,
+    id: 4,
+    name: "UETH Bengaluru Chapter",
+    description:
+      " Commuinty Head & Web3 Developer",
+    tags: ["Blockchain", "Commuinty", "bengaluru", "Ethereum"],
+    date: "Nov'23 - Present"
+
+  },
+  {
+    id: 5,
     name: "Web3Bengaluru",
     description:
       " Commuinty Head & Web3 Developer",
@@ -9,7 +18,7 @@ export const Work = [
 
   },
   {
-    id: 2,
+    id: 6,
     name: "Volyrix",
     description:
       "Front End & Blockchain Developer.",
@@ -39,7 +48,7 @@ export const Work = [
   //     github: "https://github.com/codebucks27/react-sidebar",
   //   },
   {
-    id: 3,
+    id: 7,
     name: "Freelance",
     description:
       "MERN,Blockchain Developer & Frontend Flutter Development",
@@ -48,7 +57,7 @@ export const Work = [
 
   },
   {
-    id: 4,
+    id: 8,
     name: "IoTree Minds",
     description:
       "FullStack Android Developer & Frontend Web Developer - Internship",
@@ -57,7 +66,7 @@ export const Work = [
 
   },
   {
-    id: 5,
+    id: 9,
     name: "Zakthi Innovation Labs LLP",
     description:
       "Web Developer & App Development Trainer - Freelance",
