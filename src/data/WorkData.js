@@ -3,7 +3,7 @@ export const Work = [
     id: 3,
     name: "PVL-Labs",
     description:
-      " Web3 Developer - Solidity",
+      "Web3 Developer - Solidity",
     tags: ["Blockchain", "Aduting", "Solidity", "Ethereum"],
     date: "Dec'23 - Present"
 
@@ -28,7 +28,7 @@ export const Work = [
   },
   {
     id: 6,
-    name: "Volyrix",
+    name: "ASHRUNYA",
     description:
       "Front End & Blockchain Developer.",
     tags: ["Blockchain", "Reactjs", "Tailwindcss", "NFT"],
