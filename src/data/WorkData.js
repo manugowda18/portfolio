@@ -1,5 +1,14 @@
 export const Work = [
   {
+    id: 3,
+    name: "PVL-Labs",
+    description:
+      " Web3 Developer - Solidity",
+    tags: ["Blockchain", "Aduting", "Solidity", "Ethereum"],
+    date: "Dec'23 - Present"
+
+  },
+  {
     id: 4,
     name: "UETH Bengaluru Chapter",
     description:
