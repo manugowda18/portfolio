@@ -114,7 +114,7 @@ const AboutPage = () => {
           >Full Stack Web/Blockchain Developer and Frontend Flutter Developer
             <br />
             <br />
-            I'm a passionate Full Stack Web/Blockchain Developer and Flutter Developer based in India. I thrive in the open-source world, always eager to explore new technologies, and build exciting projects. As an independent open-source contributor and blogger, I enjoy sharing my insights with the community
+            I'm a passionate Full Stack Blockchain Developer. I thrive in the open-source world, always eager to explore new technologies, and build exciting projects. As an independent open-source contributor and blogger, I enjoy sharing my insights with the community
             <br></br>
             <br />Beyond development, I love creating advanced applications and am an avid reader. I firmly believe that everything becomes an art when you put your consciousness into it..{" "}
             <br />

@@ -209,7 +209,7 @@ const Intro = () => {
           <h3>I'm Manojgowda.</h3>
 
           <h6>
-            A Fullstack MERN , Blockchain Dev & Frontend Flutter Dev🚀.
+            A Fullstack Blockchain & MERN Stack Dev 🚀.
           </h6>
         </Text>
       </SubBox>
