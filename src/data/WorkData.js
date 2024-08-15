@@ -26,8 +26,8 @@ export const Work = [
     id: 4,
     name: "IoTree Minds",
     description:
-      "FullStack Android Developer & Frontend Web Developer - Internship",
-    tags: ["MERN", "Flutter", "TeamCollaboration"],
+      "FullStack Android Developer & API Developer",
+    tags: ["MERN", "API", "TeamCollaboration"],
 
   },
 ];
