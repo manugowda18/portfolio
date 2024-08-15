@@ -4,14 +4,14 @@ export const Work = [
     name: "KP Consulting",
     description:
       "FullStack Blockchain dev",
-    tags: ["Blockchain","Solidity", "MERN","Team Management"],
+    tags: ["Blockchain", "Solidity", "MERN", "Team Management"],
   },
   {
     id: 2,
     name: "Entersoft Security",
     description:
-      "Smart Contract Auditor",
-    tags: ["Blockchain", "Aduting", "Solidity", "Ethereum"],
+      "Blockchain Developer & Security Auditor",
+    tags: ["Blockchain", "Development", "Aduting", "Solidity", "Ethereum"],
 
   },
   {
